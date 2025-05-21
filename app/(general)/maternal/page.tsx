@@ -7,8 +7,10 @@ export default function ContactPage() {
       <Image
               src='/Mother.svg'
               alt="Saludo animado"
-              width={600} 
-              height={800} 
+              className='h-auto'
+              width={800}
+              height={800}
+              
               
             />
     
